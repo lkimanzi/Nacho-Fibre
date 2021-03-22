@@ -8,7 +8,7 @@
 
 ## Description
 
-You have two problems below. You should write psuedocode and code for each solution. Test cases are included to ensure proper functionality.
+You have two problems below. You should write psuedocode and code for each solution. Test cases are included to ensure proper functionality. You can run `npm test` in the terminal to run the test suite.
 
 ## Problem 1: The Fibonacci Sequence
 
